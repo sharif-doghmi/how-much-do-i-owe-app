@@ -1,8 +1,8 @@
 # Support site for "How Much Do I Owe?" app
 
-Please reach out to me with questions, feedback, and bug reports using the contact information below, or open a discussion in this git repository.
+Please reach out to me with questions, feedback, and bug reports using the contact information below, or start a discussion in this git repository: https://github.com/sharif-doghmi/how-much-do-i-owe-app
 
-App Developer Contact Information
+## App Developer Contact Information:
 
 Name: Sharif Doghmi
 
